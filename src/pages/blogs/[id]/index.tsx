@@ -1,6 +1,6 @@
 import {NextPage} from 'next'
 
-import Content from 'src/components/contents/blogs/detail/index/index.tsx'
+import Content from '/components/contents/blogs/detail/index/index'
 
 
 const Page: NextPage<{}> = () => {
